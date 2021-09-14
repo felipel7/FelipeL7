@@ -1,7 +1,7 @@
 ## Hi there 👋 
 <div>
   <p>I'm Felipe, a passionate self-taught web developer, currently living in Curitiba - PR, Brazil.</p> 
-  <img heigth="350em" width="350em" alt="Felipe" align="right" src="felipe.png"/>
+<!--   <img heigth="350em" width="350em" alt="Felipe" align="right" src="felipe.png"/> -->
 </div>
 
 <div>  
