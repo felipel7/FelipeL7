@@ -10,6 +10,7 @@
   <img heigth="30" width="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img heigth="30" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img heigth="30" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img heigth="30" width="40" alt="vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img heigth="30" width="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <br /><br />
 </div>
@@ -18,8 +19,13 @@
 <div>
   <p> I’m learning: </p>
 
-  <img heigth="30" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img heigth="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img heigth="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img heigth="30" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
+
+
   <br /><br />
 </div>
 
